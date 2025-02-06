@@ -2,7 +2,7 @@
 ### 🎵 Music Player
 
 A simple and interactive music player built using **HTML, CSS, and JavaScript**. It allows users to listen to songs stored in a folder, browse albums, and dynamically load songs into the library.
----
+<!-- --- -->
 
 ## 🚀 Features
 
@@ -11,13 +11,13 @@ A simple and interactive music player built using **HTML, CSS, and JavaScript**.
 - 📂 **Local Song Storage** – Uses a song folder for media files.
 - 🎨 **Responsive UI** – Clean and interactive design.
 
----
+<!-- --- -->
 
 ## 📸 Screenshots
 
 (Add relevant images/gifs of your project UI here)
 
----
+<!-- --- -->
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +25,7 @@ A simple and interactive music player built using **HTML, CSS, and JavaScript**.
 - **CSS** – Styling and responsiveness
 - **JavaScript** – Functionality and interactivity
 
----
+<!-- --- -->
 
 ## 📂 Setup Instructions
 
@@ -36,7 +36,7 @@ A simple and interactive music player built using **HTML, CSS, and JavaScript**.
 2. Open the project folder.
 3. Run `index.html` in a browser.
 
----
+<!-- --- -->
 
 ## 🎯 Future Improvements
 
@@ -55,6 +55,6 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).   -->
+This project is licensed under the [MIT License](LICENSE). -->
 
 ---
