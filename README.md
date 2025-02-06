@@ -9,9 +9,9 @@ A simple and interactive music player built using **HTML, CSS, and JavaScript**.
 - 📂 **Local Song Storage** – Uses a song folder for media files.
 - 🎨 **Responsive UI** – Clean and interactive design.
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
-(Add relevant images/gifs of your project UI here)
+(Add relevant images/gifs of your project UI here) -->
 
 ## 🛠️ Technologies Used
 
